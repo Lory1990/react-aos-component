@@ -15,7 +15,6 @@ const AOSAnimation: React.FC<AosBoxProps> = ({
     dataAosDelay,
     dataAosEasing,
     dataAosMirror,
-    onlyDesktop,
     animate =  true,
     ...rest
 }) => {
